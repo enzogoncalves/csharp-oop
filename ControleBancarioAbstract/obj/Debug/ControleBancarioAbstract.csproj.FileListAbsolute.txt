@@ -1,0 +1,8 @@
+C:\Users\enzom\Downloads\OOP\ControleBancarioAbstract\bin\Debug\ControleBancarioAbstract.exe.config
+C:\Users\enzom\Downloads\OOP\ControleBancarioAbstract\bin\Debug\ControleBancarioAbstract.exe
+C:\Users\enzom\Downloads\OOP\ControleBancarioAbstract\bin\Debug\ControleBancarioAbstract.pdb
+C:\Users\enzom\Downloads\OOP\ControleBancarioAbstract\obj\Debug\ControleBancarioAbstract.csproj.AssemblyReference.cache
+C:\Users\enzom\Downloads\OOP\ControleBancarioAbstract\obj\Debug\ControleBancarioAbstract.csproj.SuggestedBindingRedirects.cache
+C:\Users\enzom\Downloads\OOP\ControleBancarioAbstract\obj\Debug\ControleBancarioAbstract.csproj.CoreCompileInputs.cache
+C:\Users\enzom\Downloads\OOP\ControleBancarioAbstract\obj\Debug\ControleBancarioAbstract.exe
+C:\Users\enzom\Downloads\OOP\ControleBancarioAbstract\obj\Debug\ControleBancarioAbstract.pdb

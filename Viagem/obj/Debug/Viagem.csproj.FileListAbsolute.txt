@@ -1,0 +1,8 @@
+C:\Users\enzom\Enzo\OOP\Viagem\bin\Debug\Viagem.exe.config
+C:\Users\enzom\Enzo\OOP\Viagem\bin\Debug\Viagem.exe
+C:\Users\enzom\Enzo\OOP\Viagem\bin\Debug\Viagem.pdb
+C:\Users\enzom\Enzo\OOP\Viagem\obj\Debug\Viagem.csproj.AssemblyReference.cache
+C:\Users\enzom\Enzo\OOP\Viagem\obj\Debug\Viagem.csproj.SuggestedBindingRedirects.cache
+C:\Users\enzom\Enzo\OOP\Viagem\obj\Debug\Viagem.csproj.CoreCompileInputs.cache
+C:\Users\enzom\Enzo\OOP\Viagem\obj\Debug\Viagem.exe
+C:\Users\enzom\Enzo\OOP\Viagem\obj\Debug\Viagem.pdb

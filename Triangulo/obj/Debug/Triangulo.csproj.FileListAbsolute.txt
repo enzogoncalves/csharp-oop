@@ -1,0 +1,8 @@
+C:\Users\enzom\Enzo\OOP\Triangulo\bin\Debug\Triangulo.exe.config
+C:\Users\enzom\Enzo\OOP\Triangulo\bin\Debug\Triangulo.exe
+C:\Users\enzom\Enzo\OOP\Triangulo\bin\Debug\Triangulo.pdb
+C:\Users\enzom\Enzo\OOP\Triangulo\obj\Debug\Triangulo.csproj.AssemblyReference.cache
+C:\Users\enzom\Enzo\OOP\Triangulo\obj\Debug\Triangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\enzom\Enzo\OOP\Triangulo\obj\Debug\Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\enzom\Enzo\OOP\Triangulo\obj\Debug\Triangulo.exe
+C:\Users\enzom\Enzo\OOP\Triangulo\obj\Debug\Triangulo.pdb

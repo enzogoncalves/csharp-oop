@@ -1,0 +1,8 @@
+C:\Users\enzom\Enzo\OOP\Banco\bin\Debug\Banco.exe.config
+C:\Users\enzom\Enzo\OOP\Banco\bin\Debug\Banco.exe
+C:\Users\enzom\Enzo\OOP\Banco\bin\Debug\Banco.pdb
+C:\Users\enzom\Enzo\OOP\Banco\obj\Debug\Banco.csproj.AssemblyReference.cache
+C:\Users\enzom\Enzo\OOP\Banco\obj\Debug\Banco.csproj.SuggestedBindingRedirects.cache
+C:\Users\enzom\Enzo\OOP\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\enzom\Enzo\OOP\Banco\obj\Debug\Banco.exe
+C:\Users\enzom\Enzo\OOP\Banco\obj\Debug\Banco.pdb
